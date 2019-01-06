@@ -30,3 +30,22 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  background-color: #282c34;
+  color: white;
+  font-size: 18px;
+  padding-top: 4px;
+  padding-bottom: 16px; 
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  width: 256px;
+  margin: auto;
+}
+
+.info p {
+  margin: auto;
+}
