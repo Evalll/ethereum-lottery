@@ -11,7 +11,7 @@
 
 ## 开发过程
 
-1. 在 Remix 上部署合约；
+1. 在 RemixIDE 上部署合约；
 2. 利用 npm 的 create-react-app 快速建立好一个 ReactJS 的范本，利用 Web3 来与进行交互。
 
 ## 部署
