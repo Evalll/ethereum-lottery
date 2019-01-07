@@ -49,3 +49,14 @@
 .info p {
   margin: auto;
 }
+
+.lottery {
+  margin-bottom: 24px;
+}
+
+button {
+  background-color: #282c34;
+  color: white;
+  padding: 4px;
+  font-size: 16px;
+}
